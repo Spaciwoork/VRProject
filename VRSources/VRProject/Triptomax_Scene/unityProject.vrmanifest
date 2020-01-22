@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.triptomax_scene01.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\StudentBCN\\Downloads\\Triptomax_Scene02\\Triptomax_Scene\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Triptomax_Scene01 [Testing]"
+        }
+      }
+    }
+  ]
+}
